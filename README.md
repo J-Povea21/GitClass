@@ -1,0 +1,2 @@
+# GitClass
+This is optional
